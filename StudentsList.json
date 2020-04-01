@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Loi G.P",
+    "bday": "2001-04-03",
+    "speciality": "POIT"
+  },
+  {
+    "id": 2,
+    "name": "Radkevich D. A.",
+    "bday": "1998-02-26",
+    "speciality": "chto-to strannoe"
+  }
+]
