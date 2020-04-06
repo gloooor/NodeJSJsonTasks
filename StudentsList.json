@@ -7,6 +7,24 @@
   },
   {
     "id": 2,
+    "name": "Kolyada L.V",
+    "bday": "2001-07-02",
+    "speciality": "POIT"
+  },
+  {
+    "id": 3,
+    "name": "Kravtsova D.V",
+    "bday": "2002-11-07",
+    "speciality": "ISiT"
+  },
+  {
+    "id": 4,
+    "name": "Kto-to K.K",
+    "bday": "1999-11-27",
+    "speciality": "ISiT"
+  },
+  {
+    "id": 5,
     "name": "Radkevich D. A.",
     "bday": "1998-02-26",
     "speciality": "chto-to strannoe"
